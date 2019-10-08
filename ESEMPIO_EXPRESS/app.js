@@ -17,3 +17,5 @@ app.listen(3000, function () {
 6) Il metodo get serve per eseguire la funzione alla ricezione della richiesta client
 7) Il metodo listen serve per stare in ascolto per riceve le richieste fatte dal client
 8) I parametri che servono per il metodo get son il req, cioè richiesta  e res, risposta
+9) Il parametro res nel metodo get serve per rispondere al client
+10)Ricevuto la richiesta dal chiente verra mandato una risposta al client
